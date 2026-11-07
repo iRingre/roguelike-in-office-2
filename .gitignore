@@ -1,0 +1,10 @@
+# Godot editor cache and imported assets
+.godot/
+
+# Exported builds
+/build/
+/dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
